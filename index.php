@@ -26,7 +26,7 @@ in html
         </header>
         <hr />
         <nav>
-            <a class=highlighted href="index.html">Home</a>
+            <a class=highlighted href="index.php">Home</a>
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
         </nav>
